@@ -1,4 +1,4 @@
-# Resources
-Celeste modding resources collected and maintained by the community.
+# 模组资源
+由社区收集和维护的蔚蓝模组开发资源。
 
-**[Please check the wiki.](https://github.com/EverestAPI/Resources/wiki)**
+**[请看百科。](https://github.com/BreakingLead/EverestAPI-Resources-Chinese/wiki)**
